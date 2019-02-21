@@ -37,6 +37,10 @@ a{
       font-weight: bold; 
  
 }
+span{
+      font-family: 'Tangerine', serif;
+      font-size: 34px;
+}
 .content{
     min-height: 600px; 
 }
